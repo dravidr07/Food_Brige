@@ -4,6 +4,8 @@ FoodBridge is a food donation and redistribution platform designed to reduce foo
 
 The platform makes food donation easier through an interactive donation system, contributor leaderboard, messaging, donation tracking, and location-based food discovery.
 
+vercel deploy link:https://food-brige.vercel.app
+
 🌐 Live Website: https://foodbridge-website-1crg.bolt.host
 
 📌 Table of Contents
