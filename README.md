@@ -169,6 +169,10 @@ Donation photo references.
 
 Uploaded donation photos are intended to be managed through database storage.
 
+
+
+<img width="639" height="638" alt="image" src="https://github.com/user-attachments/assets/1af23ca9-b809-4080-93aa-1406195744fa" />
+
 🚀 Installation and Setup
 Prerequisites
 
